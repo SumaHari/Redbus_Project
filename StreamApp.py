@@ -173,3 +173,4 @@ elif st.session_state.page == "select_bus":
                                                 'seats_available']])
                 else:
                     st.warning(f"No buses found matching the selected criteria for Route: {route}.")
+
