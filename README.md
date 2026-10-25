@@ -11,5 +11,3 @@ Key Features:
 3. Interactive Application: Provides an intuitive Streamlit interface for filtering and visualizing bus data.
 4. Filters: Includes options to sort by bus type, routes, prices, ratings, and availability
 
-
-
