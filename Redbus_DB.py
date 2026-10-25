@@ -28,4 +28,3 @@ cursor.execute(create_table_query)
 connection.commit()
 print("Database and table created successfully...")
 connection.close()
-
